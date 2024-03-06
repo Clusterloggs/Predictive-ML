@@ -20,3 +20,6 @@ You can install them using the following line of code
 ```bash
 pip install mysql-connector-python pandas sqlalchemy
 ```
+
+## Contributors
+[Azeez Akintonde](https://github.com/Akint0nde)
