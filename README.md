@@ -20,9 +20,3 @@ You can install them using the following line of code
 ```bash
 pip install mysql-connector-python pandas sqlalchemy
 ```
-
-## Setup
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/Akint0nde/Loan-Status-Prediction-Using-Machine-Learning-with-Python.git
