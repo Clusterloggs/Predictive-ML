@@ -1,10 +1,10 @@
 # Bank Loan Prediction with Machine Learning using Python
 
-This project aims to predict loan approvals using machine learning techniques. By leveraging Python's machine learning libraries and MySQL integration, we analyze historical loan data to build predictive models.
+This project aims to predict loan approvals using machine learning techniques. By leveraging Python's machine learning libraries and MySQL integration, I analyze historical loan data to build predictive models.
 
 ## Introduction
 
-In this project, we utilize machine learning algorithms to predict whether a bank loan application will be approved or denied. By analyzing past data and training our models, I aim to provide insights that can assist financial institutions in making informed decisions.
+In this project, I utilize machine learning algorithms to predict whether a bank loan application will be approved or denied. By analyzing past data and training our models, I aim to provide insights that can assist financial institutions in making informed decisions.
 
 ## Features
 
